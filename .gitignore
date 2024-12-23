@@ -1,0 +1,45 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+__pycache__/
+*.pyd
+
+# Virtual environment
+venv/
+
+# Package directories and distribution files
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# IDE settings and project files
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+*.out
+
+
+# Temporary files
+*.swp
+*.swo
+~$*
+
+*.class
+*.jar
+*.o
+*.so
+*.dSYM/
+*.coverage
+*.hypothesis/
+.vscode/
+.idea/
+
+# Continue
+.continue/
